@@ -1,0 +1,3 @@
+# estudioJHIPSTER
+
+Pruebas con JHIPSTER
